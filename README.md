@@ -3,6 +3,12 @@
 This layout component dynamically adjusts between showing a sidebar and main content based on screen size. It uses a custom hook `useIsBelowMd` to determine if the screen width is below a medium breakpoint.
 
 
+## MentorDashboardLayout Component
+
+This component is responsible for rendering the mentor's dashboard layout with a responsive sidebar and navbar. It adapts between mobile and desktop views using a custom `useIsBelowMd` hook.
+
+👉 [View Full Code on GitHub]([https://github.com/your-username/your-repo-name/blob/main/src/layouts/MentorDashboardLayout.jsx](https://github.com/Shawon-Reza/alyona/blob/main/src/Layout/MentorDashboardLayout.jsx))
+
 
 <details>
   <summary>View Full Code</summary>
