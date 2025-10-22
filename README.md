@@ -112,7 +112,7 @@ const AdminDashboard = () => {
 
 export default AdminDashboard
 ```
-#Is BelowMD Device
+##Is BelowMD Device
 
 ```jsx
 import { useEffect, useState } from "react";
